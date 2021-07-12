@@ -52,7 +52,7 @@
     "yargs": "15.4.1"
   },
   "devDependencies": {
-    "@asciidoctor/core": "^2.0.0-rc.1",
+    "@asciidoctor/core": "^2.2.4",
     "chai": "^4.2.0",
     "dirty-chai": "^2.0.1",
     "mocha": "8.1.0",
